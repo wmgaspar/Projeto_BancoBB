@@ -1,0 +1,16 @@
+package POO;
+
+public class Testa_Exer1 {
+
+	public static void main(String[] args) {
+		
+		Classe_Exer1 cliente1 = new Classe_Exer1 ("Joao","354.043.670-75","rua abc", "23","jo@email.com");
+		Classe_Exer1 cliente2 = new Classe_Exer1 ("Maria","296.635.030-09","Av asd","35","mari@email.com");
+		
+		cliente1.visualizarCliente();
+		
+		
+
+	}
+
+}

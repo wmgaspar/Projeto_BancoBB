@@ -1,0 +1,13 @@
+package POO;
+
+public class Testa_Exer2 {
+
+	public static void main(String[] args) {
+		
+		Classe_Exer2 funcionario1 = new Classe_Exer2 ("Jose","443.496.580-84",45,2500,"dev jr");
+		
+		funcionario1.imprimir();
+
+	}
+
+}
